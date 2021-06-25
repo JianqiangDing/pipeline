@@ -7,7 +7,7 @@ import pipeline as pl
 
 """
 1. ENSURE BLENDER executable program already added in your system PATH, especially when you working on Windows
-    a. so that we can call blender from any terminal by just typing the following command
+    a. so that we can call blender from any terminal just by executing the following command
     $$ blender 
 2. ENSURE all third-party modules already installed for the blender python (PIL and moviepy)
     a. here is a simple solution, cd to the directory where the blender python(.exe) exists 
